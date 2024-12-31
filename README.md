@@ -102,4 +102,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 💬 Contact
 - **Author**: Tyler Jarvis
 - **Email**: tylerjarvis3256@gmail.com
+- **LinkedIn**: [Tyler Jarvis LinkedIn](https://www.linkedin.com/in/tyler-jarvis-b8a72023b/)
 - **GitHub**: [Tyler Jarvis GitHub](https://github.com/TylerJarvis3256)
