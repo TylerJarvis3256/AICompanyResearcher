@@ -8,7 +8,7 @@ import certifi
 os.environ["SSL_CERT_FILE"] = certifi.where()
 
 # Set Open AI API Key Here
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key='Add-Your-Key-Here',)
 
 
 
