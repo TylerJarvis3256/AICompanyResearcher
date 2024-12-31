@@ -25,8 +25,8 @@ Users can upload a CSV file containing company names and receive a downloadable 
 ## 📂 Project Structure
 ```
 root
-├── main.py                   # Entry point for the Streamlit app
-└── README.md                 # Project documentation
+├── main.py
+└── README.md
 ```
 
 ---
