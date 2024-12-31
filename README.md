@@ -7,9 +7,9 @@ Users can upload a CSV file containing company names and receive a downloadable 
 ---
 
 ## 🚀 Features
-- **CSV Upload and Output**: Easily upload a CSV file with company names and downlaod a CSV file containing detailed research.
+- **CSV Upload and Output**: Easily upload a CSV file with company names and download a CSV file containing detailed research.
 - **Employee Benefits Analysis**: Provides insights into company employee benefits programs and providers.
-- **Company Summaries**: Generate concise overviews of a company's benefits mission.
+- **Company Summaries**: Generate concise overviews of a company's employee benefits programs and their providers.
 - **Interactive UI**: Built with **Streamlit** for a user-friendly, browser-based interface.
 
 ---
@@ -18,6 +18,7 @@ Users can upload a CSV file containing company names and receive a downloadable 
 - **Programming Language**: Python
 - **Framework**: Streamlit
 - **API**: OpenAI API
+- **Libraries**: pandas
 
 ---
 
@@ -67,11 +68,15 @@ root
 2. Open your browser to the link provided by Streamlit (usually `http://localhost:8501`).
 
 3. Use the app’s interface to upload a csv of company names and generate downloadable AI-driven research.
+   - **Upload a CSV file** containing company names.
+   - **Generate AI-driven research** on employee benefits for each company.
+   - **Download a CSV file** with the detailed results.
 
 ---
 
 ## 📝 To-Do
-- [ ] Clean up UI
+- [ ] Clean up UI and improve visual design.
+- [ ] Add detailed error handling for invalid CSV formats.
 
 ---
 
